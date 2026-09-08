@@ -5,7 +5,6 @@ console.log("AddtoCart.ts file loaded successfully.");
 console.log("Removing from cart Test");
 
 
-
 console.log("Adding item to cart...");
 
 //Sameer: 
@@ -18,4 +17,9 @@ console.log("Item added to cart successfully.");
 
 
 
+// Fayaz: You can use the following code snippet to add an item to the cart
+
+console.log("Item added to cart successfully.");
+
 console.log("User Story is created to sameer")
+console.log("User Story is completed by sameer")
